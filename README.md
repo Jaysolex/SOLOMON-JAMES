@@ -1,93 +1,126 @@
+Hi, I'm Solomon James
 
-![Profile Banner](D727C551-D6E1-4AEE-B87B-191FDEC0721C.png)
+Detection Engineer | SOC Analyst | Threat Hunter
 
-<a href="https://linkedin.com/in/solomon-james-cyber"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Security operations professional specializing in detection engineering, threat hunting, incident response, and security automation. I design and deploy security monitoring solutions that identify adversary activity across Windows, cloud, and network environments.
 
----
-
-## 🛡️ Objective  
-Certified **Cybersecurity Analyst** with hands-on expertise in building detection labs, automating SOC workflows, and leveraging modern SIEM platforms.  
-My goal is to contribute to a high-performing **Security Operations Center (SOC)** as a Tier 1 to 3 Analyst, assisting in identifying and responding to threats using real-world tools and frameworks.  
-
-----
-
-## 📂 Featured Projects
-
-- **RHEL Web Application Security Lab**  
-  Hands-on lab focused on securing and hardening web applications on RHEL.  
-  https://github.com/Jaysolex/rhel-webapp-security-lab  
-
-- **SOC Lab Setup – Ready for Log Ingestion**  
-  End-to-end SOC lab using the Elastic Stack for centralized log ingestion and analysis.  
-  https://github.com/Jaysolex/-SOC-Lab-Setup-Ready-for-Log-Ingestion-
-----
-
-## 🧠 Skills & Associated Projects
-
-| Skill Category            | Specific Skill                              | Associated Project                                                                |
-|----------------------------|---------------------------------------------|----------------------------------------------------------------------------------|
-| **SOC Hands On**           | Elsearch, Kibana, Microsoft Sentinel, Splunk| [30 days MyDFIR SOC Challenge](https://github.com/Jaysolex/30-Day-SOC-Challenge) 
-| **SIEM**                   | Wazuh, Microsoft Sentinel, Splunk           | [Wazuh SIEM & Elastic Stack Lab](https://github.com/Jaysolex/CyberSolex)         |
-| **Endpoint Monitoring**    | Sysmon, Windows Logging, Defender EDR       | [Sysmon + Sigma Rules Lab](https://github.com/Jaysolex/CyberSolex)               |
-| **Network Analysis**       | Wireshark, Zeek, Suricata                   | [PCAP Analysis & Detection Lab](https://github.com/Jaysolex/CyberSolex)          |
-| **Automation & SOAR**      | Shuffle SOAR, TheHive, Cortex               | [SOC Automation Project](https://github.com/Jaysolex/CyberSolex)                 |
-| **Threat Intelligence**    | VirusTotal, AbuseIPDB, IOC Analysis         | [IOC Hunting Lab](https://github.com/Jaysolex/CyberSolex)                        |
-| **Incident Response**      | Alerting, Case Management, Investigations   | [SOC Incident Workflow](https://github.com/Jaysolex/CyberSolex)                  |
+Core Focus: Building detection content, threat hunting workflows, and incident response automation using industry-standard tools and the MITRE ATT&CK framework.
 
 ---
 
-## 🛠️ Tools  
+FEATURED PROJECTS
 
-### 🔗 Network Analysis  
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
-</div>
+🛡️ Windows Detection Engineering Lab
+Production-ready detection framework with 8 Sigma rules, 2 YARA signatures, and Chainsaw SIEM-less integration. Covers Windows attack chains from initial access through persistence. 95%+ detection accuracy, <1% false positives.
+→ github.com/Jaysolex/Windows-Detection-Engineering-Lab
 
-### 🖥️ Endpoint Detection & Response  
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sysmon-4B275F?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+🔍 Detection Engineering Lab
+Enterprise security monitoring environment correlating endpoint (Sysmon, Windows Event Logs) and network telemetry (Zeek, Suricata) in Splunk with ATT&CK-aligned detection rules and incident investigation workflows.
 
-### 🔍 SIEM & Monitoring  
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=ElasticStack&logoColor=white" />
-</div>
+☁️ Microsoft Sentinel Honeypot Lab
+Cloud-native SOC environment leveraging Microsoft Sentinel, Cowrie SSH honeypot, Active Directory monitoring, and cloud-optimized threat detections.
 
-### 🔁 Automation & Case Management  
-<div>
-    <img src="https://img.shields.io/badge/-Shuffle_SOAR-FF9900?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TheHive-F3B61F?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cortex-0072B1?&style=for-the-badge&logoColor=white" />
-</div>
+🔥 Firewall Policy Optimizer
+Full-stack security platform for firewall rule analysis, threat intelligence correlation, policy optimization, and compliance validation across hybrid environments.
+
+🤖 AI SOC Log Analyzer
+Serverless analytics pipeline featuring automated log analysis, VirusTotal threat intelligence enrichment, and MITRE ATT&CK-based threat classification.
+
+📊 Splunk SOC Detection Lab
+End-to-end SOC environment focused on Windows endpoint detection, LOLBins abuse detection, and incident investigation using Sysmon and Windows Event Logs.
 
 ---
 
-## 🧾 Certifications  
-<div>
-    <a href="https://www.credly.com/badges/5f8b2053-657a-49e0-b3d7-055854229640" target="_blank">
-      <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    </a>
-    <a href="https://www.credly.com/badges/d60a07eb-2fff-44bf-aed9-6a653eecf4e6/linked_in?t=swobto" target="_blank">
-      <img src="https://img.shields.io/badge/-CySA%2B-00BFFF?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    </a>
-    <a href="https://www.credly.com/badges/9426031d-5fbc-41eb-b40e-5a472c89676e" target="_blank">
-      <img src="https://img.shields.io/badge/-CSAP-800080?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    </a>
-    <a href="https://learn.microsoft.com/en-ca/users/solomonjames-0854/credentials/cdde6ed9aee5271" target="_blank">
-      <img src="https://img.shields.io/badge/-SC--200-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    </a>
-    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/GQCT8OM2UZYN" target="_blank">
-      <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-    </a>
-</div>
+💡 CORE EXPERTISE
+
+Detection Engineering
+- Sigma rule development & optimization
+- YARA signature design
+- Detection content strategy
+- MITRE ATT&CK framework mapping
+- False positive tuning & validation
+
+Threat Hunting & Analysis
+- IOC-based threat hunting
+- Behavioral detection
+- Log correlation & analysis
+- Threat intelligence enrichment
+- Windows attack chain analysis
+
+Security Operations
+- Alert triage & escalation
+- Incident investigation & response
+- Security monitoring & response
+- Threat detection strategy
+- SOC process improvement
+
+SIEM & Monitoring Platforms
+- Splunk (advanced searches, custom alerts, dashboards)
+- Microsoft Sentinel (KQL queries, detection rules)
+- Wazuh (endpoint monitoring, log analysis)
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+
+Endpoint & Network Visibility
+- Windows Event Logging & analysis
+- Sysmon (process creation, registry, file activity)
+- Zeek (network IDS/NSM)
+- Suricata (IDS/IPS)
+- Wireshark (packet analysis)
+
+Security Automation
+- Python (security scripting, automation)
+- PowerShell (Windows automation)
+- Bash (Linux/cloud automation)
+- Detection workflow automation
 
 ---
 
+🛠️ TECHNICAL STACK
 
+SIEM & Threat Detection: Splunk • Microsoft Sentinel • Wazuh • ELK Stack • Chainsaw
+
+Detection Engineering: Sigma • YARA • Sysmon • MITRE ATT&CK Framework
+
+Network Security: Zeek • Suricata • Wireshark
+
+Threat Intelligence: VirusTotal API • IOC Analysis • Threat Hunting Automation
+
+Operating Systems: Windows Server • Linux (Ubuntu, RHEL) • macOS
+
+Programming: Python • PowerShell • Bash • Git
+
+Cloud Platforms: Microsoft Azure • AWS
+
+---
+
+🏆 CERTIFICATIONS
+
+✓ CompTIA Security+
+✓ CompTIA CySA+
+✓ Certified Security Analyst Professional (CSAP)
+✓ Microsoft SC-200: Security Operations Analyst
+✓ Google Cybersecurity Professional Certificate
+
+---
+
+📖 CONTINUOUS LEARNING
+
+Currently pursuing: RHCSA • Advanced Detection Engineering • Threat Hunting at Scale • Cloud Security Monitoring
+
+---
+
+🤝 LET'S CONNECT
+
+I'm actively seeking opportunities in:
+- Detection Engineering
+- Threat Hunting
+- Security Operations Engineering
+- Incident Response
+- SOC Architecture & Optimization
+
+📍 Based in: Ontario, Canada
+📧 Email: solomon.a.james97@gmail.com
+💼 LinkedIn: linkedin.com/in/solomon-james-cyber
+💻 GitHub: github.com/jaysolex
+
+Open to contract, full-time, and remote opportunities.
